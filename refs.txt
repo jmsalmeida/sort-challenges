@@ -1,0 +1,22 @@
+# Complexidade de Algoritmos
+#
+# memory = n
+# complexity = n + n + (n*n) = n + n^2
+#
+# Selection sort
+# https://www.geeksforgeeks.org/selection-sort/
+
+Proximos exercicios
+- Veja o Insertion sort
+- Veja o couting sort
+- Depois vamos ver Recursividade
+
+
+# https://www.geeksforgeeks.org/quick-sort/ - Fazer juntos
+
+
+# Refazer e entender bem os algoritimos de ordenação
+- Selection sort
+- Bubble sort
+- Insertion sort
+
